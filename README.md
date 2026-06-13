@@ -264,7 +264,7 @@ The system uses an asynchronous backend architecture. FastAPI receives the CSV u
 
 A separate high-level architecture diagram is available here:
 
-[Architecture Diagram](https://drive.google.com/file/d/1rDe1XHML1LLCQxcC-UNtPfcIC7hVopXh/view?usp=sharing)
+[Architecture Diagram](https://drive.google.com/file/d/1P1Ulcse2r6vDnaHy1hTZxXvA7p2m0Nkk/view?usp=sharing)
 
 
 ## Bottlenecks and Scaling
